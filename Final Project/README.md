@@ -1,7 +1,7 @@
 #Author: Ganghua Mei
 
 ![plot](https://github.com/gm3044/W4995-ML-for-Finance/blob/main/Final%20Project/Daily%20Returns.PNG)
-![plot](https://github.com/gm3044/W4995-ML-for-Finance/blob/main/Final%20Project/Daily%20Returns.PNG)
+![plot](https://github.com/gm3044/W4995-ML-for-Finance/blob/main/Final%20Project/Cumulative%20Returns.PNG)
 
 
 To replicate my final project:
