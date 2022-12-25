@@ -18,7 +18,7 @@ stocks that maximize the sharpe ratio.
 
 ![plot](https://github.com/gm3044/W4995-ML-for-Finance/blob/main/Final%20Project/Daily%20Returns.PNG)
 ![plot](https://github.com/gm3044/W4995-ML-for-Finance/blob/main/Final%20Project/Cumulative%20Returns.PNG)
-![plot](https://github.com/gm3044/W4995-ML-for-Finance/blob/main/Final%20Project/Cumulative%20Returns.PNG)
+![plot](https://github.com/gm3044/W4995-ML-for-Finance/blob/main/Final%20Project/Descriptive%20Statistics.PNG)
 
 The average daily return of our portfolio in the investment period is .367% (or 148.5% annually) versus 0.148% (or 39.905% annually). In particular,
 the total cumulative return is 5.57% which is 2.75 times the returns of SP500. Moreover,
