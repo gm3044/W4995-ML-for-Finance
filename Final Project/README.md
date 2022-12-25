@@ -10,7 +10,7 @@ A. The first stage is to select mid-large cap companies based on fundamental and
 technical analysis following Steven Downey (2020).
 
 B. The second stage use neural networks to predict the stock returns in the spirit of
-Gu, Kelly and Xiu (2020)and Van Binsbergen, Han and Lopez-Lira (2020).
+Gu, Kelly and Xiu (2020) and Van Binsbergen, Han and Lopez-Lira (2020).
 
 C. The third stage use predicted returns for mean-variance optimization and select
 stocks that maximize the sharpe ratio.
