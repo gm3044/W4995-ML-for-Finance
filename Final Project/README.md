@@ -1,5 +1,6 @@
 
-# 
+# Brief Summary:
+
 The final project is written as part of the evaluation of the Machine Learning with
 Applications in Finance summer course at Columbia University. The portfolio manager is
 Ganghua Mei, with an initial $1 million AUM. The investment portfolio is simulated from
